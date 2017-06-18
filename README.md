@@ -8,7 +8,7 @@ Mouse-Ergonomics-Test
 |Optical Sensing|Avago ADNS-9800||
 |Optical Lens|Avago ADNS-6190-002||
 
-##Design Parameters
+## Design Parameters
 |Parameter|Min|Nom|Max|
 |---|---|---|---|
 |Sensing distance|2.18mm|2.4mm|2.62|
@@ -16,7 +16,7 @@ Mouse-Ergonomics-Test
 |Trackball diameter||40mm||
 |Handedness||Right||
 
-##Controls
+## Controls
 - Left Mouse Button
 - Right Mouse Button
 - Scroll Wheel
@@ -25,12 +25,12 @@ Mouse-Ergonomics-Test
 - ~~Scroll Wheel left right = Ctrl Tab / Ctrl Shift Tab?~~
 
 
-##Target Specifications
+## Target Specifications
 |Parameter|Min|
 |---|---|
 |Ball diameter|40mm|
 |Ball Material|Tiger's Eye|
-|Ball Suspension|3mm Silicon Nitride Round Bearings in Polycprolactone casing |
+|Ball Suspension|3mm Silicon Nitride (Si<sub>3</sub>N<sub>4</sub>) Round Bearings in Polycprolactone casing |
 |Construction|Acrylonitrile butadiene styrene|
 |Tracking Technology|Laser Optical Sensing|
 |Tracking Resolution|Up to 8200 counts per inch|
@@ -39,9 +39,3 @@ Mouse-Ergonomics-Test
 
 <https://en.wikipedia.org/wiki/Tiger%27s_eye>
 <https://en.wikipedia.org/wiki/Silicon_nitride>
-
-Si<sub>3</sub>N<sub>4</sub>
-
-
-<https://en.m.wikipedia.org/wiki/Tribology>
-
